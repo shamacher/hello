@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv){
-    printf("Hello World!\n");
+    printf("Sam Hamacher\nComputer Science\n");
 
     return 0;
 }
